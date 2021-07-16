@@ -8,4 +8,6 @@ Following in that theme, we were interested to investigate if there is a correla
 
 # Instructions
 
-The Twitter Terms of Service prevent us from providing the full tweet json objects publicly. To run this notebook, you need that data. Please contact us if you wish to discuss using our dat. The easiest way to use this code is to run the notebook in Google Collab and upload the data from this repository to your Google Drive account. The notebook will then walk through the process step-by-step.
+The Twitter Terms of Service prevent us from providing the full tweet json objects publicly. To run this notebook, you need that data. Please contact us if you wish to discuss using our data. 
+
+The easiest way to use this code is to run the notebook in Google Collab and upload the data from this repository to your Google Drive account. The notebook will then walk through the process step-by-step.
